@@ -11,7 +11,7 @@ MIT 2020 Fintech Challenge
 
 ## Prototyping & Visualization pipeline
 ***
-<img src="charts/BigQuery.png" height="250" width="250">
+<img src="charts/BigQuery.png" height="250" width="350">
 <img src="charts/h2oai.jfif" height="250" width="250">
 
 
