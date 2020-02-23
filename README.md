@@ -1,4 +1,4 @@
-<img src="designs/32.png" height="250" width="300">
+<img src="charts/logo.JPG" height="250" width="300">
 
 # SpoofBusters
 MIT 2020 Fintech Challenge
