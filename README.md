@@ -1,4 +1,4 @@
-<img src="charts/logo.JPG" height="250" width="300">
+<img src="charts/logo.JPG" height="150" width="150">
 
 # MIT 2020 Fintech Challenge: SpoofBusters
 SpoofBusters is a trading monitoring platform that prevents the manipulations of stock prices through an illegal practice known as "Spoofing".
